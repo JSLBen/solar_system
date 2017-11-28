@@ -13,10 +13,6 @@ Under root /:
 
     gui.js: ui objects and event handlers
 
-    helper_util.js:
-
-    materials.js:
-
     SolarSystem.js: creates and maintains data structure for objects in the scene.
 
     ./textures: includes image files that are used as textures
